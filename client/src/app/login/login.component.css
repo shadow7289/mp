@@ -1,0 +1,32 @@
+.modal-content {
+    background: linear-gradient(45deg, rgba(80, 20, 20, 0.8), rgba(9, 54, 59, 0.8));
+    color: aliceblue
+    
+}
+.modal-content h4 {
+    color:white;
+}
+.modal-body pre {
+    color: green;
+}
+button{
+    color: white;
+}
+#login {
+    background: rgb(17, 16, 16);
+    padding: 30px 0;
+    color: #fff;
+  }
+  .section-header .section-divider {
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #1dc8cd;
+    background: linear-gradient(0deg, #580c0c 0%, #55fabe 100%);
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: white;
+  }
+  h3{
+      color: white;
+  }

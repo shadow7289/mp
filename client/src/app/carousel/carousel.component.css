@@ -1,0 +1,53 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+
+ a{
+    text-decoration: none;
+    color: white;
+    /* padding: 14px 25px; */
+     /* display: inline-block; */
+}
+a:hover{
+    text-decoration: none;
+    /* padding: 14px 25px; */
+}
+#intro {
+    width: 100%;
+    height: 100vh;
+    /* background: linear-gradient(45deg, rgba(80, 20, 20, 0.8), rgba(16, 94, 104, 0.8)), url("../img/image.jpg") center top no-repeat; */
+    background-size: cover;
+    position: relative;
+  }
+  
+  #intro .intro-text {
+    position: absolute;
+    left: 0;
+    top: 60px;
+    right: 0;
+    height: calc(50% - 60px);
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}

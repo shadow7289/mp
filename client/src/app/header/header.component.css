@@ -1,0 +1,42 @@
+.modal-content {
+    background: linear-gradient(45deg, rgba(80, 20, 20, 0.8), rgba(9, 54, 59, 0.8));
+    color: aliceblue
+    
+}
+.modal-content h4 {
+    color:white;
+}
+.modal-body pre {
+    color: green;
+}
+button{
+    color: white;
+}
+button:hover {
+    background: aquamarine
+}
+.social-links {
+    padding-bottom: 20px;
+  }
+  
+.social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: rgb(0, 0, 0);
+    color: #848585;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+    border: 1px solid #4e1814;
+  }
+  
+.social-links a:hover {
+    background: linear-gradient(45deg, rgba(92, 20, 99, 0.8), rgba(0, 0, 0, 0.8));
+    color: #fff;
+  }
+  
