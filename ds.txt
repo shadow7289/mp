@@ -1,0 +1,2 @@
+carousel <section id="intro" ng-app="myApp" >
+index <html lang="en" ng-app="myModule"><body ng-controller="myController">
